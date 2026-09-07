@@ -14,4 +14,7 @@ Self-hosted infrastructure: Proxmox, reverse proxy, TLS, local LLMs via Ollama.
 ### What I'm into
 Self-hosted AI, automation pipelines, and making things survive in production.
 
+### Currently
+Building self-hosted automation tooling and working with agencies
+on production deployments.
 📫 kkaced31@gmail.com
