@@ -1,16 +1,17 @@
-## Hi there 👋
+## Kamal Kaced
 
-<!--
-**kromz-dev/kromz-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack & infrastructure developer based in France.
 
-Here are some ideas to get you started:
+I build and deploy web applications end to end — from the database
+to the server they run on. I work with agencies on the technical
+parts that fall outside no-code tools: custom backends, API
+integrations, AI features, and production deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+`Python` · `React` · `Bash` · `Docker` · `Linux` · `PostgreSQL` · `n8n`
+Self-hosted infrastructure: Proxmox, reverse proxy, TLS, local LLMs via Ollama.
+
+### What I'm into
+Self-hosted AI, automation pipelines, and making things survive in production.
+
+📫 kkaced31@gmail.com
